@@ -2,3 +2,4 @@ data/
 face_recog/
 __pycache__/
 *.pyc
+.idea/
